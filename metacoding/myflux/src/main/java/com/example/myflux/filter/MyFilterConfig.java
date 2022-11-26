@@ -1,4 +1,4 @@
-package com.example.myflux;
+package com.example.myflux.filter;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

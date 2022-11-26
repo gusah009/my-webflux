@@ -1,4 +1,4 @@
-package com.example.myflux;
+package com.example.myflux.filter;
 
 import java.io.PrintWriter;
 import javax.servlet.Filter;
